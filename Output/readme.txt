@@ -1,0 +1,1 @@
+en esta carpeta se guardan los resultados de la separacion del archivo pdf
