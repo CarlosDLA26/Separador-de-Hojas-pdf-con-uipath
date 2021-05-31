@@ -1,0 +1,2 @@
+# Separador de hojas PDF con UiPath
+Bot encargado de separar archivos pdf en varios archivos pdf individuales según un rango de paginas dado. Al inicializarlo, el bot pedirá la ruta del archivo pdf después solicitará el intervalo para separar las hojas, por ejemplo si se digita un intervalo de 3 hojas en un archivo de 9 el bot generará tres archivos con 3 hojas cada uno. Una vez termina la separación, el bot guarda los archivos en la carpeta "Output".
